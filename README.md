@@ -22,7 +22,7 @@ Um die TMUX Konfigurationsdatei von Ihrem System zu entfernen, führen Sie folge
 Ihre Konfigurationsdatei wurde entfernt.
 
 --------------------------------------------------------------------------------------------------------
-# Englisch
+# English
 --------------------------------------------------------------------------------------------------------
 ## TMUX configuration file
 
