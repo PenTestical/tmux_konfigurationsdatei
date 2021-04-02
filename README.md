@@ -10,7 +10,7 @@ Um die TMUX Konfigurationsdatei zu verwenden, führen Sie folgende Befehle aus. 
 
 ```sudo git clone https://github.com/PenTestical/tmux_konfigurationsdatei/ && cd tmux_konfigurationsdatei``` 
 
-```mv .tmux.conf ~/.tmux.conf``` 
+```sudo mv .tmux.conf ~/.tmux.conf``` 
 
 Starten Sie eine neue TMUX-Sitzung und sourcen Sie die Datei mit ```tmux source-file ~/.tmux.conf```. Ihre Konfiguration ist abgeschlossen.
 
@@ -33,7 +33,7 @@ To use the TMUX configuration file, execute the following commands. Attention! A
 
 ```sudo git clone https://github.com/PenTestical/tmux_konfigurationsdatei/ && cd tmux_configurationfile`` 
 
-```mv .tmux.conf ~/.tmux.conf``` 
+```sudo mv .tmux.conf ~/.tmux.conf``` 
 
 Start a new TMUX session and source the file with ```tmux source-file ~/.tmux.conf``. Your configuration is complete.
 
