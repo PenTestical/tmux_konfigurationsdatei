@@ -1,8 +1,8 @@
-# TMUX Konfigurationsdatei
+## TMUX Konfigurationsdatei
 
 Individuelle TMUX Konfigurationsdatei für einen schnelleren Umgang mit TMUX. Änderungen sind möglich.
 
-# Verwendung
+## Verwendung
 Um die TMUX Konfigurationsdatei zu verwenden, führen Sie folgende Befehle aus. Achtung! Eventuell vorhandene ```.tmux.conf``` Dateien werden überschrieben.
 
 ```sudo git clone https://github.com/PenTestical/tmux_konfigurationsdatei/ && cd tmux_konfigurationsdatei``` 
@@ -11,8 +11,8 @@ Um die TMUX Konfigurationsdatei zu verwenden, führen Sie folgende Befehle aus. 
 
 
 --------------------------------------------------------------------------------------------------------
-## Englisch
+# Englisch
 --------------------------------------------------------------------------------------------------------
-# TMUX configuration file
+## TMUX configuration file
 
 Individual TMUX configuration file for faster handling of TMUX. Feel free to make changes.
